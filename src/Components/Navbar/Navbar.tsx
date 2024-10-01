@@ -17,7 +17,7 @@ const actionItems = [
     label: "New Product",
     ariaLabel: "New Product",
     role: "login",
-    url: "",
+    url: "/add-product",
   },
   {
     icon: <SfIconShoppingCart />,
